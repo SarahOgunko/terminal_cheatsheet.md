@@ -1,4 +1,4 @@
-# Git Cheat sheet 
+# **Git Cheat sheet**
 
 ## Terminal Commands 
 
